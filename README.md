@@ -23,8 +23,8 @@ This project uses the **MNIST dataset**, which consists of **60,000 training** a
 1. **Clone the repository (if applicable):**
 
    ```bash
-   git clone <repository_url>
-   cd <repository_folder>
+   git clone https://github.com/AkiAkzh/methods_and_tools.git
+   cd https://github.com/AkiAkzh/methods_and_tools.git
    ```
 
 2. **Open the Jupyter Notebook (**\`\`\*\* file)\*\* in Google Colab or Jupyter Notebook.
